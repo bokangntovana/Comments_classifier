@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python Virtual Environment
+.venv/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
